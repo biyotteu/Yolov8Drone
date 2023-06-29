@@ -1,0 +1,7 @@
+path: /home/ubuntu/dev/datasets/AntiYolo  # dataset root dir
+train: ./  
+val: val/  
+test:  # test images (optional)
+
+names:
+  0: drone

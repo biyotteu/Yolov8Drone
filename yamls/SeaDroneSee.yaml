@@ -1,0 +1,11 @@
+path: /home/ubuntu/dev/datasets/SeaDroneSee  # dataset root dir
+train: train/  
+val: val/  
+test:  # test images (optional)
+
+names:
+  0: swimmer 
+  1: boat
+  2: jetski
+  3: life_saving_appliances
+  4: buoy

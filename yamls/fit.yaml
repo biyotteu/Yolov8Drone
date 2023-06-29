@@ -1,0 +1,7 @@
+path: /home/ubuntu/dev/datasets/DroneVSBirdOrigin/fit  # dataset root dir
+train: ./  
+val: ./  
+test:  # test images (optional)
+
+names:
+  0: drone
